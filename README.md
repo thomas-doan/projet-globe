@@ -9,3 +9,9 @@ Type de méthodologie d'ingénierie de projet
 Cahier des charges fonctionnelles
 Creation d'un backlog
 Choix technique et architecture
+
+
+Johan : Chef de projet
+Ismael : Développeur
+Nouhayla : Développeur
+Thomas : Développeur
